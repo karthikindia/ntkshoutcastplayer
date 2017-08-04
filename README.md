@@ -1,9 +1,9 @@
 ## Welcome to Naam Tamilar HTML5 Audio Player
 
-You can use the [editor on GitHub](https://github.com/karthikindia/ntkshoutcastplayer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Experienced Many service blocks by other company owned players and decided to have our own coded html5 audio player with the saying "தற்சார்பு " 
+- "tharsaarpu" fulfill your service delivery with what you have ? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Dedicated to Naam Tamil Political Party
 
 ### Support or Contact
 
